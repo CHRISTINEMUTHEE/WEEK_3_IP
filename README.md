@@ -1,4 +1,4 @@
-# WEEK_3_IP
+# Cotedivore Telecimmunication Upgrade
 This is the Data Analysis for the Cotedivore telecommunication Upgrade.
 # MTN Telecommunication upgrade Analysis
 # Description
